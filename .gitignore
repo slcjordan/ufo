@@ -1,3 +1,8 @@
 .env*
 
-data/ tables/
+data/
+tables/
+pgbouncer/userlist.txt
+.pgbouncer
+.postgres
+.network
